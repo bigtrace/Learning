@@ -1,3 +1,3 @@
 import os
 
-print "lalalal"
+print "11:23pm"
