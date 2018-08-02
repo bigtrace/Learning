@@ -2,4 +2,4 @@ import pandas as pd
 
 if __name__ == "__main__":
 
-    print "hello world from brad"
+    print pd.datetime.now()
